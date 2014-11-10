@@ -1,6 +1,6 @@
-# Curriculum Vitae
+# DevTricks - Exploring ORM Inheritance
 
-This project contains my personal curriculum vitae.
+
 
 ## Install
 
